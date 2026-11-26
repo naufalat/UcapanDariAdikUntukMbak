@@ -1,1 +1,0 @@
-Letakkan foto-1.jpg sampai foto-6.jpg dan music.mp3 di folder assets ini.
